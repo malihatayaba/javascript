@@ -20,6 +20,9 @@ case 5: console.log("Today is Saturday")
 break;
 case 6: console.log("Today is Friday")
 break;
+case 7: console.log("Wrong...")
+break;
+
 
 
 }
